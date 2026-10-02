@@ -93,11 +93,8 @@ Or, if you are using **VS Code**, open the project and run it using **Live Serve
 
 ## 📸 Preview
 
-Add your project screenshot here:
-
-```markdown
 ![Digital Clock Preview](images/preview.png)
-```
+
 
 ---
 
