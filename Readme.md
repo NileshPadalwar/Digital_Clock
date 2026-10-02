@@ -4,9 +4,8 @@ A simple and responsive **Digital Clock Web Application** built using **HTML, CS
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** Add your deployed project URL here
-
  🔗 **[Digital Clock ](https://digitalclock-eta-five.vercel.app/)**
+ 
 ---
 
 ## 📌 Project Overview
