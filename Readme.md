@@ -76,7 +76,7 @@ The `setInterval()` function updates the displayed time every second.
 1. Clone the repository:
 
 ```bash
-git clone <your-gitlab-repository-url>
+git clone https://github.com/NileshPadalwar/Digital_Clock.git
 ```
 
 2. Navigate to the project folder:
